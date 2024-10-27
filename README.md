@@ -1,5 +1,5 @@
 # CATCH
-The code for "CATCH: Causal Attention Enhanced Robust Hyperbolic Heterogeneous Graph Representation Learning" (under review in KDD25)
+The code for "CATCH: Causal Attention Enhanced Robust Hyperbolic Heterogeneous Graph Representation Learning" (under review)
 ## Requirements
 This repository has been tested with the following packages:
 + Python == 3.7.13
